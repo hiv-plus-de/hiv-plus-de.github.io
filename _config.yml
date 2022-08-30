@@ -49,9 +49,9 @@ round-avatar: true
 social-network-links:
   email: "mailto:kontakt@hiv-plus.de"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: hiv-plus-de
   #github: daattali
-  twitter: daattali
+  twitter: hiv-plus-de
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
