@@ -1,6 +1,6 @@
 ---
 layout: home
-title: HIV Plus
+title: HIV-Plus.de
 subtitle: Die nächste Generation der HIV-Mediziner:innen
 ---
 

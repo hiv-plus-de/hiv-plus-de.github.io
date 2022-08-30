@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Interessantes/Links
+title: Links
 ---
 Kommt bald
