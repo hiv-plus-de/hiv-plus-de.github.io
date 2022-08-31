@@ -49,7 +49,7 @@ round-avatar: true
 social-network-links:
   email: "kontakt@hiv-plus.de"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: hiv-plus-de
+  #facebook: hiv-plus-de
   #github: daattali
   twitter: hiv-plus-de
   #patreon: DeanAttali
