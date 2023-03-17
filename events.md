@@ -7,7 +7,7 @@ title: Veranstaltungen
 ## Wir würden dich gerne persönlich kennenlernen
  - Wann? 
   - **am Freitag, den 24.03.2023 von 12 bis 13 Uhr**
- - Wo?
+  - Wo?
   - Raum „Tokio“ im [Kongresszentrum](https://goo.gl/maps/fpr8moGavMSdir2m8)
 
 * Oder
