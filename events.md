@@ -2,7 +2,7 @@
 layout: page
 title: Veranstaltungen
 ---
-![Flyer](https://github.com/hiv-plus-de/hiv-plus-de.github.io/blob/master/assets/img/Flyer_DOEAK2023_klein.jpg)
+![Flyer](/assets/img/Flyer_DOEAK2023_klein.jpg)
 
 ## Wir würden dich gerne persönlich kennenlernen
  - Wann? 
