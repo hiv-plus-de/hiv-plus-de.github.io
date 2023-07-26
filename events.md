@@ -2,7 +2,7 @@
 layout: page
 title: Veranstaltungen
 ---
-![Flyer](/assets/img/HIVPlus_Flyer_Hoffmann_Version2.jpg)
+![Flyer](/assets/img/HIVPlus_Flyer_Hoffmann_Version3.png)
 ![Flyer](/assets/img/HIVPlus_Flyer_Frankfurt_1.jpg)
 ![Flyer](/assets/img/HIVPlus_Flyer_Frankfurt_2.jpg)
 
