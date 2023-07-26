@@ -2,9 +2,9 @@
 layout: page
 title: Veranstaltungen
 ---
-![Flyer](/assets/img/HIVplus_Flyer_Hoffmann_Version2.jpg)
-![Flyer](/assets/img/HIVplus_Flyer_Frankfurt_1.jpg)
-![Flyer](/assets/img/HIVplus_Flyer_Frankfurt_2.jpg)
+![Flyer](/assets/img/HIVPlus_Flyer_Hoffmann_Version2.jpg)
+![Flyer](/assets/img/HIVPlus_Flyer_Frankfurt_1.jpg)
+![Flyer](/assets/img/HIVPlus_Flyer_Frankfurt_2.jpg)
 
 ## Kommende Veranstaltungen:
 - [ ]  01.08.2023, vom 16 bis 17 Uhr, per Zoom: Q&A mit Prof. Christian Hoffmann (Zoom-Link per E-Mail)
