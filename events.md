@@ -21,3 +21,5 @@ title: Veranstaltungen
 - [x]  November 2022, München: Treffen beim SIS
 - [x]  September 2022, Köln: Unser Vortrag beim DAGNÄ-Workshop
 - [x]  August 2022, Hamburg: "Discuss & Learn mit und von HIV-Mediziner*innen der nächsten Generation" - Vol.1 (in Kooperation mit ViiV)
+
+![Flyer](/assets/img/HIVplus_Flyer_DOEAK2023_1.2.jpg)
