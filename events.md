@@ -7,11 +7,11 @@ title: Veranstaltungen
 ![Flyer](/assets/img/HIVPlus_Flyer_Frankfurt_2.jpg)
 
 ## Kommende Veranstaltungen:
-- [ ]  01.08.2023, vom 16 bis 17 Uhr, per Zoom: Q&A mit Prof. Christian Hoffmann (Zoom-Link per E-Mail)
-- [ ]  06.10.-07.10.2023, Frankfurt am Main: "Discuss & Learn" - Überregionales Treffen (in Kooperation mit ViiV)
+- [ ]  **am 01.08.2023, vom 16 bis 17 Uhr, per Zoom** und jeden 1. Dienstag im Monat: Q&A mit Prof. Christian Hoffmann (Zoom-Link per E-Mail)
+- [ ]  **am 06.10.-07.10.2023, Frankfurt am Main**: "Discuss & Learn" - Überregionales Treffen (in Kooperation mit ViiV)
 
 ## Wir würden dich gerne persönlich kennenlernen
- - **am Freitag, den 01.09.2023 nach dem Hauptprogramm vom dagnä-Workshop in Berlin**
+ - **am Freitag, den 01.09.2023** nach dem Hauptprogramm vom dagnä-Workshop in Berlin
  - Location folgt
 
 ### Vergangene Veranstaltungen
