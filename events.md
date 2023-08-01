@@ -7,7 +7,7 @@ title: Veranstaltungen
 ![Flyer](/assets/img/HIVPlus_Flyer_Frankfurt_2.jpg)
 
 ## Kommende Veranstaltungen:
-- [ ]  -**am 01.08.2023, von 16 bis 17 Uhr, per Zoom** und jeden 1. Dienstag im Monat: Q&A mit Prof. Christian Hoffmann (Zoom-Link [per Email](mailto:kontakt@hiv-plus.de) anfordern)
+- [ ]  -**am 05.09.2023, am 10.10.2023, von 16 bis 17 Uhr, per Zoom** und jeden 1. Dienstag im Monat: Q&A mit Prof. Christian Hoffmann (Zoom-Link [per Email](mailto:kontakt@hiv-plus.de) anfordern)
 - [ ]  -**am 06.10.-07.10.2023, Frankfurt am Main**: "Discuss & Learn" - Überregionales Treffen HIV-Mediziner:innen der nächsten Generation (in Kooperation mit ViiV, Anmeldung [per Email](mailto:simon.x.korn@viivhealthcare.com))
 
 ## Wir würden dich gerne persönlich kennenlernen
