@@ -11,7 +11,7 @@ title: Veranstaltungen
 - [ ]  -**am 27.09.-28.09.2024, Frankfurt am Main**: "Discuss & Learn" - Überregionales Treffen HIV-Mediziner:innen der nächsten Generation Vol.2 (in Kooperation mit ViiV, Anmeldung [per Email](mailto:simon.x.korn@viivhealthcare.com))
 
 ## Wir würden dich gerne persönlich kennenlernen
- - **vom 22.03. bis 24.03.2024 in München** während MAIT, insbesondere bei unserem Slot **am 24.03.2024 um 13:00**, Raum Atlanta (OG)
+ - **vom 22.03. bis 24.03.2024 in München** während MAIT, insbesondere bei unserem Slot **am 24.03.2024 um 13:30**, Raum Atlanta (OG)
 
 ### Vergangene Veranstaltungen
 - [x]  -Januar 2024, online: "NACHGEFRAGT! - Ärztinnen diskutieren HIV interdisziplinär" (in Kooperation mit Gilead)
